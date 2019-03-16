@@ -1,0 +1,35 @@
+﻿<Window x:Class="ExerciseWindows1A.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ExerciseWindows1A"
+        mc:Ignorable="d"
+        Title="Notebook Stack" Height="400" Width="350">
+    <Grid Margin="20px" HorizontalAlignment="Center">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="200px" />
+        </Grid.RowDefinitions>
+
+        <Button Grid.Row="1" Click="AddNotebook">Add Notebook</Button>
+        <TextBox Grid.Row="2" TextWrapping="Wrap" Text="{Binding Path=notebook, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"/>
+        <Label Grid.Row="3"></Label>
+        <Button Grid.Row="4" Click="CheckNotebook">Check Notebook</Button>
+        <Button Grid.Row="5" Click="PeekNotebook">Peek at Notebook</Button>
+        <Button Grid.Row="6" Click="CheckAllNotebook">Check All</Button>
+        <Button Grid.Row="7" Click="ExitApplication">Exit</Button>
+
+        <Label Grid.Row="8" VerticalAlignment="Center" VerticalContentAlignment="Center"
+               HorizontalContentAlignment="Center"
+               FontWeight="Bold" Background="AliceBlue"                 
+               Height="100px" Width="250px" Content="{Binding Path=labelContent}"></Label>
+    </Grid>
+</Window>

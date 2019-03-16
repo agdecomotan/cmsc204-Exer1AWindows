@@ -1,0 +1,15 @@
+C:\Users\00357\Documents\Documents\MIS\CMSC 204\Exercise 1A\ExerciseWindows1A\ExerciseWindows1A\ExerciseWindows1A\bin\Release\ExerciseWindows1A.exe.config
+C:\Users\00357\Documents\Documents\MIS\CMSC 204\Exercise 1A\ExerciseWindows1A\ExerciseWindows1A\ExerciseWindows1A\bin\Release\ExerciseWindows1A.exe
+C:\Users\00357\Documents\Documents\MIS\CMSC 204\Exercise 1A\ExerciseWindows1A\ExerciseWindows1A\ExerciseWindows1A\bin\Release\ExerciseWindows1A.pdb
+C:\Users\00357\Documents\Documents\MIS\CMSC 204\Exercise 1A\ExerciseWindows1A\ExerciseWindows1A\ExerciseWindows1A\obj\Release\MainWindow.g.cs
+C:\Users\00357\Documents\Documents\MIS\CMSC 204\Exercise 1A\ExerciseWindows1A\ExerciseWindows1A\ExerciseWindows1A\obj\Release\App.g.cs
+C:\Users\00357\Documents\Documents\MIS\CMSC 204\Exercise 1A\ExerciseWindows1A\ExerciseWindows1A\ExerciseWindows1A\obj\Release\ExerciseWindows1A_MarkupCompile.cache
+C:\Users\00357\Documents\Documents\MIS\CMSC 204\Exercise 1A\ExerciseWindows1A\ExerciseWindows1A\ExerciseWindows1A\obj\Release\ExerciseWindows1A_MarkupCompile.lref
+C:\Users\00357\Documents\Documents\MIS\CMSC 204\Exercise 1A\ExerciseWindows1A\ExerciseWindows1A\ExerciseWindows1A\obj\Release\MainWindow.baml
+C:\Users\00357\Documents\Documents\MIS\CMSC 204\Exercise 1A\ExerciseWindows1A\ExerciseWindows1A\ExerciseWindows1A\obj\Release\ExerciseWindows1A.g.resources
+C:\Users\00357\Documents\Documents\MIS\CMSC 204\Exercise 1A\ExerciseWindows1A\ExerciseWindows1A\ExerciseWindows1A\obj\Release\ExerciseWindows1A.Properties.Resources.resources
+C:\Users\00357\Documents\Documents\MIS\CMSC 204\Exercise 1A\ExerciseWindows1A\ExerciseWindows1A\ExerciseWindows1A\obj\Release\ExerciseWindows1A.csproj.GenerateResource.cache
+C:\Users\00357\Documents\Documents\MIS\CMSC 204\Exercise 1A\ExerciseWindows1A\ExerciseWindows1A\ExerciseWindows1A\obj\Release\ExerciseWindows1A.csproj.CoreCompileInputs.cache
+C:\Users\00357\Documents\Documents\MIS\CMSC 204\Exercise 1A\ExerciseWindows1A\ExerciseWindows1A\ExerciseWindows1A\obj\Release\ExerciseWindows1A.exe
+C:\Users\00357\Documents\Documents\MIS\CMSC 204\Exercise 1A\ExerciseWindows1A\ExerciseWindows1A\ExerciseWindows1A\obj\Release\ExerciseWindows1A.pdb
+C:\Users\00357\Documents\Documents\MIS\CMSC 204\Exercise 1A\ExerciseWindows1A\ExerciseWindows1A\ExerciseWindows1A\obj\Release\ExerciseWindows1A.csprojAssemblyReference.cache
